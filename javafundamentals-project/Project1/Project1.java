@@ -64,3 +64,4 @@ public class Project1 {
         System.out.println(empNo[index] + "\t" + empName[index] + "\t\t" + dept[index] + "\t\t" + designation + "\t\t" + salary);
     }
 }
+// Updated by Varsha
