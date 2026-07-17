@@ -1,0 +1,13 @@
+package stream;
+class Student {
+
+    int rollNo;
+    String name;
+    int mark;
+
+    Student(int rollNo, String name, int mark) {
+        this.rollNo = rollNo;
+        this.name = name;
+        this.mark = mark;
+    }
+}
